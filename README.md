@@ -20,8 +20,11 @@ I focus on building intelligent, real-time systems that transform data into acti
 - 🎯 Interested in **Data Engineering and Machine Learning roles**  
 - 📫 Reach me at: **nandhujay91@gmail.com**
 ---
-
-## 🚀 My Work: A Showcase of Applied Projects
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandhujay91&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhujay91&layout=compact&theme=tokyonight"/>
+</p>
+## 🚀 **Featured Projects**
 
 ---
 
