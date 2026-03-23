@@ -8,7 +8,7 @@
   <h3> Data Engineer | Machine Learning | Real-Time Systems </h3>
 </div>
 <br>
-## 🧠 My Journey: From Curiosity to Creation
+🧠 My Journey: From Curiosity to Creation
 
 My interest in technology began with a simple question: how can data be used to solve real-world problems?
 
@@ -25,7 +25,9 @@ I focus on building intelligent, real-time systems that transform data into acti
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandhujay91&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhujay91&layout=compact&theme=tokyonight"/>
 </p>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+
+<p align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,docker,postgres,mongodb,redis,git"/>
