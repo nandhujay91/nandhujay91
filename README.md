@@ -45,7 +45,14 @@ A real-time biosignal processing system designed to classify patient conditions 
 - Real-time inference pipeline  
 - Drift detection and automated retraining  
 - Edge deployment using TensorFlow Lite  
-- Robust handling of edge-case scenarios  
+- Robust handling of edge-case scenarios
+
+ <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -69,7 +76,11 @@ A multi-database system designed to efficiently manage metro navigation and rout
 - Neo4j for graph-based traversal  
 - Redis for caching and fast lookup  
 - Real-time route computation  
-
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 ---
 
 ### 🧬 Blood Cancer Detection (CNN)
@@ -92,5 +103,9 @@ A deep learning-based system for classifying blood cell images using Convolution
 - Image preprocessing pipeline  
 - Model evaluation and optimization  
 - Scalable ML approach  
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge"/>
+</p>
 ---
