@@ -19,7 +19,7 @@ I focus on building intelligent, real-time systems that transform data into acti
 - 🌱 Currently exploring **MLOps and scalable AI systems**  
 - 🚀 Building **real-time data and machine learning pipelines**  
 - 🎯 Interested in **Data Engineering and Machine Learning roles**  
-- 📫 Reach me at: **nandhujay91@gmail.com**
+- 📫  Reach me at: [nandhujay91@gmail.com](mailto:nandhujay91@gmail.com)
 ---
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandhujay91&show_icons=true&theme=tokyonight"/>
