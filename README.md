@@ -7,7 +7,7 @@
   <h3> Data Engineer & Machine Learning Developer | Edge AI Systems </h3>
 </div>
 <br>
-### My Journey: From Curiosity to Creation
+My Journey: From Curiosity to Creation
 
 My interest in technology began with a simple question: how can data be used to solve real-world problems?
 
