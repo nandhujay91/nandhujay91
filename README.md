@@ -3,11 +3,12 @@
 </div>
 
 <div align="center">
+  
   <h1> Nandini Arjunan </h1>
-  <h3> Data Engineer & Machine Learning Developer | Edge AI Systems </h3>
+  <h3> Data Engineer | Machine Learning | Real-Time Systems </h3>
 </div>
 <br>
-My Journey: From Curiosity to Creation
+## 🧠 My Journey: From Curiosity to Creation
 
 My interest in technology began with a simple question: how can data be used to solve real-world problems?
 
@@ -24,9 +25,14 @@ I focus on building intelligent, real-time systems that transform data into acti
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandhujay91&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhujay91&layout=compact&theme=tokyonight"/>
 </p>
-## 🚀 **Featured Projects**
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,docker,postgres,mongodb,redis,git"/>
+</p>
 
 ---
+## 🚀 **Featured Projects**
 
 ### 🔬 Biosignal Classification System (Edge AI)
 **[Explore the Project on GitHub](https://github.com/nandhujay91/biosignal-classification-edge-ai)**
@@ -86,7 +92,7 @@ A multi-database system designed to efficiently manage metro navigation and rout
 </p>
 ---
 
-### 🧬 Blood Cancer Detection (CNN)
+### 🧬 AI-Driven Blood Cancer Detection
 **[Explore the Project on GitHub](https://github.com/nandhujay91/Blood_cancer_CNN)**
 
 A deep learning-based system for classifying blood cell images using Convolutional Neural Networks.
@@ -106,9 +112,12 @@ A deep learning-based system for classifying blood cell images using Convolution
 - Image preprocessing pipeline  
 - Model evaluation and optimization  
 - Scalable ML approach  
+**Technologies Used:**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 ---
