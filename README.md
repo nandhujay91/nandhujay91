@@ -110,7 +110,7 @@ A production-grade real-time biosignal analytics platform designed to simulate I
 ---
 
 ### 🚑 Production-Grade Real-Time Stroke Risk Prediction System with MLOps, Airflow, and Monitoring
-**[Explore the Project on GitHub](PUT_YOUR_LINK_HERE)**
+**[Explore the Project on GitHub](https://github.com/nandhujay91/Production-Grade-Real-Time-Stroke-Risk-Prediction-System-with-MLOps-Airflow-and-Monitoring.git))**
 
 An end-to-end ML system for predicting stroke risk using real-time APIs, scheduling, validation, and monitoring.
 
