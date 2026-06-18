@@ -48,13 +48,16 @@ Explore the Project on GitHub : ( https://github.com/nandhujay91/Regression_ML_E
 
 A production-ready machine learning system for housing price prediction built with modular pipelines, APIs, dashboards, Docker, and cloud deployment.
 
-What It Solves
+
+**What It Solves**
+
 Predicts housing prices using machine learning
 Provides both API and dashboard interfaces
 Supports reproducible training and inference
 Enables scalable deployment
 
-My Role
+**My Role**
+
 Designed modular ML pipelines
 Built feature engineering and training pipelines
 Implemented Optuna hyperparameter tuning
@@ -64,7 +67,8 @@ Built Streamlit dashboard
 Containerized services using Docker
 Integrated CI/CD workflow and AWS deployment
 
-Key Features
+**Key Features**
+
 XGBoost Regression
 Feature Engineering Pipeline
 Hyperparameter Tuning (Optuna)
@@ -74,6 +78,18 @@ Streamlit Dashboard
 Docker Containers
 AWS Deployment
 GitHub Actions CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optuna-5C4EE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 
 
