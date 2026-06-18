@@ -40,8 +40,11 @@ I focus on building intelligent, real-time systems that transform data into acti
 
 ## 🚀 **Featured Projects**
 🏠 Housing ML End-to-End Project
+**[Explore the Project on GitHub]([https://github.com/nandhujay91/Regression_ML_EndtoEnd.git])**
 
-Explore the Project on GitHub : ( 
+
+Explore the Project on GitHub : ( https://github.com/nandhujay91/Regression_ML_EndtoEnd.git)
+
 
 A production-ready machine learning system for housing price prediction built with modular pipelines, APIs, dashboards, Docker, and cloud deployment.
 
