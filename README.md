@@ -5,7 +5,7 @@
 <div align="center">
   
   <h1> Nandini Arjunan </h1>
-  <h3> Data Engineer | Machine Learning | Real-Time Systems </h3>
+  <h3> Data Scientist | Machine Learning | Real-Time Systems </h3>
 </div>
 
 <br>
@@ -20,7 +20,7 @@ I focus on building intelligent, real-time systems that transform data into acti
 
 - 🌱 Currently exploring **MLOps and scalable AI systems**  
 - 🚀 Building **real-time data and machine learning pipelines**  
-- 🎯 Interested in **Data Engineering and Machine Learning roles**  
+- 🎯 Interested in **Data Scientist and Machine Learning roles**  
 - 📫  Reach me at: [nandhujay91@gmail.com](mailto:nandhujay91@gmail.com)
 
 ---
