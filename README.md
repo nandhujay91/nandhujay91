@@ -39,6 +39,40 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
+🏠 Housing ML End-to-End Project
+
+Explore the Project on GitHub : ( 
+
+A production-ready machine learning system for housing price prediction built with modular pipelines, APIs, dashboards, Docker, and cloud deployment.
+
+What It Solves
+Predicts housing prices using machine learning
+Provides both API and dashboard interfaces
+Supports reproducible training and inference
+Enables scalable deployment
+
+My Role
+Designed modular ML pipelines
+Built feature engineering and training pipelines
+Implemented Optuna hyperparameter tuning
+Added MLflow experiment tracking
+Developed FastAPI backend
+Built Streamlit dashboard
+Containerized services using Docker
+Integrated CI/CD workflow and AWS deployment
+
+Key Features
+XGBoost Regression
+Feature Engineering Pipeline
+Hyperparameter Tuning (Optuna)
+MLflow Experiment Tracking
+FastAPI REST API
+Streamlit Dashboard
+Docker Containers
+AWS Deployment
+GitHub Actions CI/CD
+
+
 
 ### 🔬 Biosignal Classification System (Edge AI)
 **[Explore the Project on GitHub](https://github.com/nandhujay91/biosignal-classification-edge-ai)**
