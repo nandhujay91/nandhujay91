@@ -14,7 +14,7 @@
 
 My interest in technology began with a simple question: how can data be used to solve real-world problems?
 
-This curiosity led me into Data Engineering and Machine Learning, where I started building systems that not only process data but also extract meaningful insights from it. Over time, I developed a strong interest in designing end-to-end pipelines that combine data processing, model development, and real-time deployment.
+This curiosity led me into Data Scientist and Machine Learning, where I started building systems that not only process data but also extract meaningful insights from it. Over time, I developed a strong interest in designing end-to-end pipelines that combine data processing, model development, and real-time deployment.
 
 I focus on building intelligent, real-time systems that transform data into actionable insights and support effective decision-making.
 
