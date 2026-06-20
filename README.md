@@ -72,7 +72,6 @@ dbt Documentation & Lineage
 Power BI Dashboard
 GitHub Actions CI/CD
 
-
 **Tech Stack**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -84,14 +83,6 @@ GitHub Actions CI/CD
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-239120?style=for-the-badge"/>
 </p>
-
-
-
-
-
-
-
-
 
 🏠 Housing ML End-to-End Project
 **[Explore the Project on GitHub]([https://github.com/nandhujay91/Regression_ML_EndtoEnd.git])**
