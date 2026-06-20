@@ -41,7 +41,6 @@ I focus on building intelligent, real-time systems that transform data into acti
 ## 🚀 **Featured Projects**
 Sales Analytics Platform | Explore the Project on GitHub
 
-Explore the Project on GitHub:
 **[Explore the Project on GitHub]([(https://github.com/nandhujay91/sales-analytics-dbt-powerbi)])**
 
 An end-to-end analytics engineering project that transforms raw e-commerce data into business insights using PostgreSQL, dbt, and Power BI with automated testing and CI/CD.
