@@ -47,30 +47,30 @@ Explore the Project on GitHub:
 An end-to-end analytics engineering project that transforms raw e-commerce data into business insights using PostgreSQL, dbt, and Power BI with automated testing and CI/CD.
 
 **What It Solves**
-Converts raw sales data into analytics-ready datasets
-Tracks revenue, orders, sellers, and product performance
-Provides interactive dashboards for business decision-making
-Ensures reliable and maintainable data pipelines
+- Converts raw sales data into analytics-ready datasets
+- Tracks revenue, orders, sellers, and product performance
+- Provides interactive dashboards for business decision-making
+- Ensures reliable and maintainable data pipelines
 
 **My Role**
 
-Designed PostgreSQL schemas and SQL transformations
-Built dbt staging and mart models with macros, tests, snapshots, and incremental models
-Developed Power BI dashboards for KPI monitoring and sales analysis
-Integrated GitHub Actions CI/CD and generated dbt documentation
+- Designed PostgreSQL schemas and SQL transformations
+- Built dbt staging and mart models with macros, tests, snapshots, and incremental models
+- Developed Power BI dashboards for KPI monitoring and sales analysis
+- Integrated GitHub Actions CI/CD and generated dbt documentation
 
 **Key Features**
-PostgreSQL Data Warehouse
-SQL Transformations
-dbt Models
-Generic Tests
-Macros
-Incremental Models
-Snapshots
-Exposures
-dbt Documentation & Lineage
-Power BI Dashboard
-GitHub Actions CI/CD
+- PostgreSQL Data Warehouse
+- SQL Transformations
+- dbt Models
+- Generic Tests
+- Macros
+- Incremental Models
+- Snapshots
+- Exposures
+- dbt Documentation & Lineage
+- Power BI Dashboard
+- GitHub Actions CI/CD
 
 **Tech Stack**
 <p>
@@ -96,33 +96,33 @@ A production-ready machine learning system for housing price prediction built wi
 
 **What It Solves**
 
-Predicts housing prices using machine learning
-Provides both API and dashboard interfaces
-Supports reproducible training and inference
-Enables scalable deployment
+- Predicts housing prices using machine learning
+- Provides both API and dashboard interfaces
+- Supports reproducible training and inference
+- Enables scalable deployment
 
 **My Role**
 
-Designed modular ML pipelines
-Built feature engineering and training pipelines
-Implemented Optuna hyperparameter tuning
-Added MLflow experiment tracking
-Developed FastAPI backend
-Built Streamlit dashboard
-Containerized services using Docker
-Integrated CI/CD workflow and AWS deployment
+- Designed modular ML pipelines
+- Built feature engineering and training pipelines
+- Implemented Optuna hyperparameter tuning
+- Added MLflow experiment tracking
+- Developed FastAPI backend
+- Built Streamlit dashboard
+- Containerized services using Docker
+- Integrated CI/CD workflow and AWS deployment
 
 **Key Features**
 
-XGBoost Regression
-Feature Engineering Pipeline
-Hyperparameter Tuning (Optuna)
-MLflow Experiment Tracking
-FastAPI REST API
-Streamlit Dashboard
-Docker Containers
-AWS Deployment
-GitHub Actions CI/CD
+- XGBoost Regression
+- Feature Engineering Pipeline
+- Hyperparameter Tuning (Optuna)
+- MLflow Experiment Tracking
+- FastAPI REST API
+- Streamlit Dashboard
+- Docker Containers
+- AWS Deployment
+- GitHub Actions CI/CD
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
