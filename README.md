@@ -39,6 +39,60 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
+Sales Analytics Platform | Explore the Project on GitHub
+
+Explore the Project on GitHub:
+**[Explore the Project on GitHub]([(https://github.com/nandhujay91/sales-analytics-dbt-powerbi)])**
+
+An end-to-end analytics engineering project that transforms raw e-commerce data into business insights using PostgreSQL, dbt, and Power BI with automated testing and CI/CD.
+
+**What It Solves**
+Converts raw sales data into analytics-ready datasets
+Tracks revenue, orders, sellers, and product performance
+Provides interactive dashboards for business decision-making
+Ensures reliable and maintainable data pipelines
+
+**My Role**
+
+Designed PostgreSQL schemas and SQL transformations
+Built dbt staging and mart models with macros, tests, snapshots, and incremental models
+Developed Power BI dashboards for KPI monitoring and sales analysis
+Integrated GitHub Actions CI/CD and generated dbt documentation
+
+**Key Features**
+PostgreSQL Data Warehouse
+SQL Transformations
+dbt Models
+Generic Tests
+Macros
+Incremental Models
+Snapshots
+Exposures
+dbt Documentation & Lineage
+Power BI Dashboard
+GitHub Actions CI/CD
+
+
+**Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-239120?style=for-the-badge"/>
+</p>
+
+
+
+
+
+
+
+
+
 🏠 Housing ML End-to-End Project
 **[Explore the Project on GitHub]([https://github.com/nandhujay91/Regression_ML_EndtoEnd.git])**
 
