@@ -39,6 +39,36 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
+📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline)
+[Explore the Project on GitHub](https://github.com/nandhujay91/customer-churn-prediction)
+
+A production-style ML system that predicts telecom customer churn using cost-based decision thresholds tied to real business economics, not just accuracy.
+
+**What It Solves**
+- Predicts which customers are likely to churn, so retention teams can act before it's too late
+- Optimizes the decision threshold based on actual dollar cost of a missed churner vs. a wasted retention offer
+- Detects data drift automatically, flagging when incoming customer data no longer matches what the model was trained on
+
+**My Role**
+- Built the full pipeline: data cleaning, feature engineering, model training, and inference
+- Implemented cost-based threshold optimization (Logistic Regression vs. XGBoost comparison)
+- Added MLflow experiment tracking, input validation, and statistical drift monitoring
+- Developed a FastAPI serving layer with interactive docs and structured error handling
+- Containerized with a 3-stage, test-gated Docker build (Chainguard minimal-CVE base image)
+- Set up GitHub Actions CI (lint + test on every push) and pre-commit hooks
+
+**Key Features**
+- Cost-Optimal Threshold Tuning
+- Logistic Regression & XGBoost Comparison
+- MLflow Experiment Tracking
+- FastAPI REST API
+- Statistical Drift Detection
+- Input Data Validation
+- 3-Stage Docker Build (Build → Test-Gate → Runtime)
+- GitHub Actions CI/CD
+- Config-Driven Pipeline
+
+**Tech Stack:** Python, scikit-learn, XGBoost, FastAPI, MLflow, Docker, pandas, pytest, ruff, GitHub Actions
 Sales Analytics Platform | Explore the Project on GitHub
 
 **[Explore the Project on GitHub]:([(https://github.com/nandhujay91/sales-analytics-dbt-powerbi)])**
