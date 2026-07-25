@@ -39,9 +39,9 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
-📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline) | Explore the Project on GitHub
+📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline) | https://github.com/nandhujay91/customer-churn-prediction.git
 
-[Explore the Project on GitHub]: (https://github.com/nandhujay91/customer-churn-prediction)
+**[Explore the Project on GitHub]([(https://github.com/nandhujay91/customer-churn-prediction.git)])**
 
 A production-style ML system that predicts telecom customer churn using cost-based decision thresholds tied to real business economics, not just accuracy.
 
