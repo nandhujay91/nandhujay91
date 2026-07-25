@@ -39,37 +39,49 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
-📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline)
-[Explore the Project on GitHub](https://github.com/nandhujay91/customer-churn-prediction)
+📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline) | Explore the Project on GitHub
+
+[Explore the Project on GitHub]: (https://github.com/nandhujay91/customer-churn-prediction)
 
 A production-style ML system that predicts telecom customer churn using cost-based decision thresholds tied to real business economics, not just accuracy.
 
 **What It Solves**
 - Predicts which customers are likely to churn, so retention teams can act before it's too late
 - Optimizes the decision threshold based on actual dollar cost of a missed churner vs. a wasted retention offer
-- Detects data drift automatically, flagging when incoming customer data no longer matches what the model was trained on
+- Detects data drift automatically, flagging when incoming customer data no longer matches training data
 
 **My Role**
 - Built the full pipeline: data cleaning, feature engineering, model training, and inference
-- Implemented cost-based threshold optimization (Logistic Regression vs. XGBoost comparison)
+- Implemented cost-based threshold optimization comparing Logistic Regression and XGBoost
 - Added MLflow experiment tracking, input validation, and statistical drift monitoring
 - Developed a FastAPI serving layer with interactive docs and structured error handling
 - Containerized with a 3-stage, test-gated Docker build (Chainguard minimal-CVE base image)
-- Set up GitHub Actions CI (lint + test on every push) and pre-commit hooks
+- Set up GitHub Actions CI/CD and pre-commit hooks
 
 **Key Features**
-- Cost-Optimal Threshold Tuning
-- Logistic Regression & XGBoost Comparison
-- MLflow Experiment Tracking
-- FastAPI REST API
-- Statistical Drift Detection
-- Input Data Validation
-- 3-Stage Docker Build (Build → Test-Gate → Runtime)
-- GitHub Actions CI/CD
-- Config-Driven Pipeline
 
-**Tech Stack:** Python, scikit-learn, XGBoost, FastAPI, MLflow, Docker, pandas, pytest, ruff, GitHub Actions
-Sales Analytics Platform | Explore the Project on GitHub
+Cost-Optimal Threshold Tuning
+Logistic Regression & XGBoost Comparison
+MLflow Experiment Tracking
+FastAPI REST API
+Statistical Drift Detection
+Input Data Validation
+3-Stage Docker Build
+GitHub Actions CI/CD
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E8B57?style=for-the-badge&logo=xgboost&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+SALES ANALYTICS - DBT- POWERBI
 
 **[Explore the Project on GitHub]:([(https://github.com/nandhujay91/sales-analytics-dbt-powerbi)])**
 
