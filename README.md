@@ -210,43 +210,7 @@ A real-time biosignal processing system designed to classify patient conditions 
 
 ---
 
-### 🚀 Production-Grade Real-Time Biosignal MLOps Platform  
-**[Explore the Project on GitHub](https://github.com/nandhujay91/Production-Grade-Real-Time-Biosignal-MLOps-Platform-Feature-Store-Airflow-Cloud-)**
 
-A production-grade real-time biosignal analytics platform designed to simulate ICU monitoring using scalable MLOps architecture.
-
-**What It Solves:**
-- Enables real-time biosignal processing and prediction  
-- Ensures training-serving consistency using a feature store  
-- Detects data drift and adapts models dynamically  
-- Provides scalable and low-latency ML deployment  
-
-**My Role:**
-- Architected end-to-end MLOps pipeline (BIN → streaming → features → prediction)  
-- Built feature engineering pipeline for ECG, SpO2, and IMU signals  
-- Implemented drift detection and automated retraining system  
-- Developed REST APIs for real-time inference  
-- Integrated React-based UI for monitoring and visualization  
-- Containerized and prepared system for cloud deployment  
-
-**Key Features:**
-- Real-time signal processing pipeline  
-- Online learning & incremental retraining  
-- Feature Store integration (Feast-style)  
-- Workflow orchestration using Airflow  
-- Lightweight inference using TFLite  
-- Full-stack system (FastAPI + React)  
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-</p>
-
----
 
 ### 🚑 Production-Grade Real-Time Stroke Risk Prediction System with MLOps, Airflow, and Monitoring
 **[Explore the Project on GitHub](https://github.com/nandhujay91/Production-Grade-Real-Time-Stroke-Risk-Prediction-System-with-MLOps-Airflow-and-Monitoring.git))**
