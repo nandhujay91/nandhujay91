@@ -39,6 +39,78 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
+### 📦 Inventory ABC-XYZ Intelligence
+
+**[Explore the Project on GitHub](https://github.com/nandhujay91/Inventory-ABCXYZ-Intelligence)**
+
+An end-to-end supply chain analytics and inventory decision-support system that transforms transactional data into SKU-level inventory intelligence using ABC classification, XYZ demand variability analysis, inventory risk assessment, replenishment strategies, safety stock, reorder points, and interactive analytics.
+
+**What It Solves:**
+
+- Identifies high-value and high-priority inventory
+- Classifies SKUs using ABC revenue contribution
+- Classifies demand variability using XYZ analysis
+- Combines ABC and XYZ into a 9-segment inventory matrix
+- Calculates safety stock and reorder points
+- Identifies Critical and High-risk SKUs
+- Generates actionable inventory strategies
+- Provides interactive filtering and business insights
+
+**My Role:**
+
+- Designed the end-to-end inventory analytics pipeline
+- Implemented SKU-level revenue and demand analysis
+- Developed ABC and XYZ classification logic
+- Built ABC-XYZ segmentation and inventory strategies
+- Implemented inventory risk scoring
+- Developed safety-stock and reorder-point calculations
+- Built interactive analytics and visualization layers
+- Developed the Streamlit inventory dashboard
+- Added automated validation with Pytest
+- Created business insights and segment-level recommendations
+
+**Key Features:**
+
+- ABC Classification
+- XYZ Classification
+- ABC-XYZ Matrix
+- Inventory Risk Assessment
+- Safety Stock Calculation
+- Reorder Point Calculation
+- Inventory Strategy Engine
+- Interactive Inventory Filtering
+- KPI and Summary Layer
+- Priority SKU Analysis
+- Segment Recommendations
+- CSV Export
+- Streamlit Dashboard
+- Automated Testing
+
+**Key Results:**
+
+- **3,941 analyzed SKUs**
+- **996 Critical/High-risk SKUs**
+- **272 Critical-risk SKUs**
+- **724 High-risk SKUs**
+- **746,483.96 units calculated safety-stock exposure**
+- **218 automated tests passed**
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uv-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+
 📉 Customer Churn Prediction (Cost-Optimized MLOps Pipeline) | https://github.com/nandhujay91/customer-churn-prediction.git
 
 **[Explore the Project on GitHub]([(https://github.com/nandhujay91/customer-churn-prediction.git)])**
