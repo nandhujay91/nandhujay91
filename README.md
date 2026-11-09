@@ -39,6 +39,73 @@ I focus on building intelligent, real-time systems that transform data into acti
 ---
 
 ## 🚀 **Featured Projects**
+### 🏥 Diabetes 30-Day Hospital Readmission Prediction
+
+**[Explore the Project on GitHub](https://github.com/nandhujay91/diabetes-30-day-readmission-prediction)**
+
+An end-to-end healthcare machine learning project that predicts the probability of hospital readmission within 30 days for patients with diabetes using historical hospital encounter data.
+
+**What It Solves:**
+
+- Identifies patients with a higher likelihood of hospital readmission
+- Supports data-driven discharge planning and follow-up prioritization
+- Analyzes clinical, medication, diagnosis, admission and hospital-stay information
+- Evaluates model performance, calibration and fairness across patient groups
+
+**My Role:**
+
+- Developed an end-to-end machine learning pipeline using Python
+- Performed data cleaning, quality assessment and exploratory data analysis
+- Engineered 27 features for healthcare readmission prediction
+- Implemented patient-level train/test splitting to prevent data leakage
+- Evaluated Logistic Regression, Random Forest, XGBoost and LightGBM
+- Performed hyperparameter tuning and selected the LightGBM model
+- Implemented SHAP-based model explainability and fairness evaluation
+- Evaluated prediction calibration and classification performance
+- Developed a FastAPI REST API for model inference
+- Implemented automated testing and code quality checks
+
+**Key Features:**
+
+- Healthcare Data Quality Assessment
+- Exploratory Data Analysis
+- Patient-Level Data Splitting
+- Clinical Feature Engineering
+- Logistic Regression, Random Forest, XGBoost and LightGBM
+- Group-Aware Cross-Validation
+- Hyperparameter Optimization
+- SHAP Explainability
+- Model Calibration
+- Fairness Evaluation
+- FastAPI Prediction Service
+- Automated Testing with Pytest
+- Code Quality with Ruff
+
+**Key Results:**
+
+- **100,114 eligible hospital encounters**
+- **71,518 unique patients** in the original dataset
+- **25 final model predictors**
+- **0.6708 ROC-AUC**
+- **0.2145 PR-AUC**
+- **0.3935 Recall** at the analytical threshold of 0.15
+- **11 automated tests passed**
+
+**Tech Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uv-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 ### 📦 Inventory ABC-XYZ Intelligence
 
 **[Explore the Project on GitHub](https://github.com/nandhujay91/Inventory-ABCXYZ-Intelligence)**
