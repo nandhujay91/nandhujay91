@@ -17,6 +17,25 @@ My interest in technology began with a simple question: how can data be used to 
 This curiosity led me into Data Scientist and Machine Learning, where I started building systems that not only process data but also extract meaningful insights from it. Over time, I developed a strong interest in designing end-to-end pipelines that combine data processing, model development, and real-time deployment.
 
 I focus on building intelligent, real-time systems that transform data into actionable insights and support effective decision-making.
+## 💼 Professional Experience
+
+### Applied AI Intern | Manitty, Lyon, France
+*May 2025 – November 2025*
+
+- Developed Python-based data processing and machine learning workflows to support applied AI solutions.
+- Contributed to feature engineering, data quality assessment and model inference workflows.
+- Supported model integration and deployment activities using TensorFlow Lite, FastAPI and Docker.
+- Collaborated with data science and engineering teams to troubleshoot technical issues, integrate pipeline components and improve workflow reliability.
+- Contributed across the machine learning lifecycle, from data preparation and model development to inference and evaluation.
+
+### Data Analyst | Versatile Software, Bengaluru, India
+
+- Designed and developed SQL-based ETL pipelines to extract, transform and integrate business data for analytical reporting.
+- Built interactive Power BI dashboards to monitor operational KPIs, inventory performance and supply chain metrics.
+- Analysed inventory and supply chain data to identify demand patterns, performance gaps and opportunities for operational improvement.
+- Automated recurring data processing and reporting workflows using Python, SQL and Apache Airflow, reducing manual reporting effort.
+- Collaborated with business stakeholders and cross-functional teams to translate reporting requirements into analytical solutions.
+- Presented data-driven insights and performance reports to support operational planning and business decision-making.
 
 - 🌱 Currently exploring **MLOps and scalable AI systems**  
 - 🚀 Building **real-time data and machine learning pipelines**  
